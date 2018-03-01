@@ -1,1 +1,1 @@
-# Mathematica-Files
+Here are some Data Analyses I conducted for a second semester Statistics course, which focused mainly on non-parametric statistics, resampling methods, and linear models. Because GitHub doesn't support the .nb extension very well, I have included PDFs instead.
